@@ -1,10 +1,10 @@
 --[[
 
-Rayfield Interface Suite
-by Sirius
+Pine interface
+by nijat
 
-shlex | Designing + Programming
-iRay  | Programming
+nijat | Designing
+pine  | Programming
 
 ]]
 
